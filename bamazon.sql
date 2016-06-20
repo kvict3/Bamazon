@@ -10,7 +10,7 @@ use bamazon;
 -- StockQuantity int(20) not null
 -- );
 
-insert into Products (ItemID, ProductName, DepartmentName, Price, StockQuantity)
+-- insert into Products (ItemID, ProductName, DepartmentName, Price, StockQuantity)
 -- values (01, "Dish Soap", "Home Goods", 3.50, 2000);
 -- values (02, "Laundry Detergent", "Home Goods", 8.75, 1500);
 -- values (03, "Vaccuum Cleaner", "Home Goods", 55.25, 1000);
